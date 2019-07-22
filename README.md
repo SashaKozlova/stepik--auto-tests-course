@@ -1,4 +1,4 @@
 # stepik--auto-tests-course
-Homework for course
-stepik.org/course/575/syllabus
-hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Homework for course:
+https://stepik.org/course/575/syllabus
+
